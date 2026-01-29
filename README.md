@@ -9,6 +9,4 @@ Task Completed:
 -Customization: Created a custom HTML landing page using echo and tee commands.
 
 I learned how to manage Linux instances without GUI, use Serial Console and Run Command as troubleshooting alternatives when SSH is blocked, and automate server configuration using shell scripts.
-[template (linux).zip](https://github.com/user-attachments/files/24852016/template.linux.zip)![ubuntu web server hello world](https://github.com/user-attachments/assets/bc4a302d-fd29-4b40-b715-30ec7ed6541d)
-![ubuntu web server 1](https://github.com/user-attachments/assets/b1042e4d-74cd-4e52-82b3-16863bdc204a)
-
+[template (linux).zip](https://github.com/user-attachments/files/24852016/template.linux.zip) 
