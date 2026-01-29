@@ -10,3 +10,4 @@ Task Completed:
 
 I learned how to manage Linux instances without GUI, use Serial Console and Run Command as troubleshooting alternatives when SSH is blocked, and automate server configuration using shell scripts.
 [template (linux).zip](https://github.com/user-attachments/files/24852016/template.linux.zip) 
+[Binder1.pdf](https://github.com/user-attachments/files/24927404/Binder1.pdf)
